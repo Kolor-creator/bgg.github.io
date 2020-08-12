@@ -11,9 +11,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>何文彬</h1>
+      <p><b>本科</b></p>
+      <p><b>××xxx大学</b></p>
+      <p><b>邮箱：330289344@qq.com</b></p>
+      <p><b>地址：广东省广州市</b></p>
+    </td>
+    <td width="25%">
+      <img src="/hewebin.png" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+  <tr><a href="/index-en.html">英文版</a> </tr>
+</table>
+
+# Kolor
+## 个人信息
+### 姓名：彬哥哥
 
 - Bulleted
 - List
